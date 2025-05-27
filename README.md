@@ -1,7 +1,5 @@
 # Jornada de Tecnologia
 
-![Logo de Fundo](https://ipoggo-my.sharepoint.com/personal/arquivos_comissaomec_ipog_edu_br/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Farquivos%5Fcomissaomec%5Fipog%5Fedu%5Fbr%2FDocuments%2FGRADUA%C3%87%C3%83O%2F06%2E%20EVENTOS%20GRADUA%C3%87%C3%83O%2F2025%2E1%2FJornada%20dos%20cursos%2FArquivos%20Fundos%20Boot%20Camp%2FCOM%20LOGO%2FOPC%E2%95%A0%C2%BAA%E2%95%A0%C3%A2O%204%2Epng)
-
 ## Palestra e Abertura
 
 **Data:** 27 de maio (das 19h até 21h)  
